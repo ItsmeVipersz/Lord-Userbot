@@ -1,4 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="Star-Userbot" /></a>
+Starz Userbot
 
 
 <p align="center">
@@ -17,7 +17,7 @@
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### Repo Lord Userbot
+### Repo Star Userbot
 Repo Yang Dibuat [Rezy](https://t.me/ItsmeAlsya) Dari Berbagai Repo Userbot Github 
 
 
